@@ -145,25 +145,6 @@ http://sketch.kaist.ac.kr/people/joonhyublee
     "another video caption text"
 ]
 ```
-#### 스케치팹 3D 모델
-유튜브 동영상과 유사한 방식으로 삽입할 수 있습니다. 리스트 안에 `"sketchfab"` 객체가 여러 개 들어갈 경우, 등 너비 테이블이 생성됩니다.
-```
-"content": [
-    "3D model in 16:9 aspect ratio",
-    { "sketchfab": "https://sketchfab.com/models/004699ce850e438c967aaa3dba95eea8/embed" },
-    "3D model in 4:3 aspect ratio",
-    {
-        "sketchfab": "https://sketchfab.com/models/004699ce850e438c967aaa3dba95eea8/embed",
-        "aspectRatio": "4:3"
-    },
-    "3D model in table"
-    [
-        { "sketchfab": "https://sketchfab.com/models/004699ce850e438c967aaa3dba95eea8/embed" },
-        { "sketchfab": "https://sketchfab.com/models/004699ce850e438c967aaa3dba95eea8/embed" },
-    ]
-
-]
-```
 #### 인용문 내 글자 기울임
 `"citation"`의 문자열 안에 `_`(밑줄)로 구분되는 부분은 기울입니다(학회명 또는 학회지명을 표시할 때 사용됨).
 ```
