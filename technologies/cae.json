@@ -1,0 +1,18 @@
+{
+    "image": "/images/technologies/cae_1.png",
+    "supertitle": ["CAE"],
+    "title": "전산해석(CAE) 설계 기술",
+    "subtitle": [],
+    "content": [
+        [
+            "• Structure",
+            "• NVH (Noise, Vibration, Harshness)",
+            "• Safety",
+            "• Thermodynamics",
+            "• Dynamics",
+            "• CFD (Computational Fluid Dynamics)"
+        ],
+        { "image": "/images/technologies/cae_2.gif" }
+    ],
+    "reference": []
+}
