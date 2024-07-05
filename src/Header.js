@@ -36,7 +36,7 @@ const menuList = [
     { label: '회사연혁', href: '/history' },
     { label: '핵심기술', href: '/technologies' },
     { label: '제품', href: '/products' },
-    { label: 'Contact Us', href: '/contact' },
+    { label: 'Contact.Us', href: '/contact' },
     { label: 'NAVER Café', href: 'https://cafe.naver.com/futureevfamily' }
 ];
 
