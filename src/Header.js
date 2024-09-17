@@ -32,12 +32,12 @@ const style = {
 
 const menuList = [
     { label: '회사소개', href: '/intro' },
-    { label: 'CEO 인사말', href: '/ceo' },
     { label: '회사연혁', href: '/history' },
     { label: '핵심기술', href: '/technologies' },
     { label: '제품', href: '/products' },
     { label: 'Contact Us', href: '/contact' },
-    { label: 'NAVER Café', href: 'https://cafe.naver.com/futureevfamily' }
+    { label: 'NAVER Café', href: 'https://cafe.naver.com/futureevfamily' },
+    { label: 'NAVER BLOG', href: 'https://https://blog.naver.com/future-ev' }
 ];
 
 export default props => (
