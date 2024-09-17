@@ -36,8 +36,8 @@ const menuList = [
     { label: '핵심기술', href: '/technologies' },
     { label: '제품', href: '/products' },
     { label: 'Contact Us', href: '/contact' },
-    { label: 'NAVER Café', href: 'https://cafe.naver.com/futureevfamily' },
-    { label: 'NAVER BLOG', href: 'https://blog.naver.com/future-ev' }
+    { label: 'NAVER Café', href: 'https://cafe.naver.com/futureevfamily'},
+    { label: 'NAVER BLOG', href: 'https://blog.naver.com/future-ev'}
 ];
 
 export default props => (
