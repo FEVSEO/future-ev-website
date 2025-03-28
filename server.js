@@ -41,13 +41,7 @@ app.get('/intro', (req, res) => {
     ]));
 });
 
-// ceo
-app.get('/ceo', (req, res) => {
-    res.send(render([
-        <Header selected="/ceo"/>,
-        <CEO/>,
-        <Footer/>
-    ]));
+
 });
 
 // history
