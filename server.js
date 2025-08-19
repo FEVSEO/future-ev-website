@@ -9,7 +9,7 @@ import {
 } from './src/utils';
 
 import Intro       from './src/Intro';
-import CEO         from './src/CEO';
+// import CEO         from './src/CEO';
 import History     from './src/History';
 import Contact     from './src/Contact';
 
@@ -39,9 +39,6 @@ app.get('/intro', (req, res) => {
         <Intro/>,
         <Footer/>
     ]));
-});
-
-
 });
 
 // history
