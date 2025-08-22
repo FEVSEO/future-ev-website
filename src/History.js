@@ -14,5 +14,7 @@ export default () => [
     <div className="thumbnail-small">2022.5.11</div>,
     <div className="thumbnail-small-content">벤처기업 인증</div>,
     <div className="thumbnail-small">2023.11</div>,
-    <div className="thumbnail-small-content">KAIST 교원창업기업 인가</div>    
+    <div className="thumbnail-small-content">KAIST 교원창업기업 인가</div>,
+    <div className="thumbnail-small">2025.06</div>,   
+    <div className="thumbnail-small-content">"2025 아기유니콘 육성사업"선정 (중소벤처기업부)</div>
 ];
